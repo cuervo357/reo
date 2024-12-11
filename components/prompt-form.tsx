@@ -160,10 +160,10 @@ export function PromptForm({
                 className="bg-transparent shadow-none text-zinc-950 rounded-full hover:bg-zinc-200"
               >
                 <IconArrowElbow />
-                <span className="sr-only">Send message</span>
+                <span className="sr-only">Enviar mensaje</span>
               </Button>
             </TooltipTrigger>
-            <TooltipContent>Send message</TooltipContent>
+            <TooltipContent>Enviar mensaje</TooltipContent>
           </Tooltip>
         </div>
       </div>
