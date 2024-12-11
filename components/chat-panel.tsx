@@ -39,10 +39,12 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'Me enviaron un mensaje que no se si es pishing',
+      subheading: 'Si tiene dudas sobre un mensaje extraño cliquee aqui',
       message: `Me enviaron un mensaje que no se si es pishing`
     },
     {
       heading: 'Me llamo alguien preguntandome sobre el banco',
+      subheading: 'Si alguien lo llamo cliquee aqui?',
       message: 'Me llamo alguien preguntandome sobre el banco?'
     }
   ]
